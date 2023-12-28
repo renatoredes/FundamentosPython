@@ -72,7 +72,7 @@ Bem-vindo ao repositório de exemplos de Fundamentos Python! Aqui você encontra
 ###Configuração do Visual Studio Code:
 
 * Abra o Visual Studio Code.
-* Instale as extensões:
+* Instale as extensões: <br />
 1.1. Python Microsoft: Python Extension.
 1.2. Code Runner: Code Runner Extension.
 
