@@ -14,5 +14,6 @@ Bem-vindo ao repositório de exemplos de Fundamentos Python! Aqui você encontra
 ## Como Usar
 
 1. Clone este repositório:
-   ```main
    git clone https://github.com/renatoredes/FundamentosPython
+   
+Divirta-se codificando! 🚀
