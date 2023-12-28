@@ -1,0 +1,18 @@
+Comunidade: consiguinado
+
+D:\projetos-dev\python
+Anotações
+Baixar python puro site: python.org
+
+Baixar o Python:  Anaconda python
+https://www.anaconda.com/download
+
+Instalar o VS Code
+instalar extensões: 
+1- Python Microsoft microsoft.com
+
+2- Python Preview
+
+3- Code Runner
+
+
