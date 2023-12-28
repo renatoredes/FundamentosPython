@@ -16,47 +16,6 @@ Bem-vindo ao repositório de exemplos de Fundamentos Python! Aqui você encontra
 
 Bem-vindo ao repositório de exemplos de Fundamentos Python! Aqui você encontrará códigos de exemplo para ajudar no aprendizado e prática da linguagem de programação Python.
 
-## Estrutura do Repositório
-
-- `exemplos/`: Pasta contendo códigos de exemplo.
-- `recursos/`: Recursos adicionais, como imagens ou arquivos de dados.
-- `docs/`: Documentação ou notas relevantes.
-
-## Exemplos Disponíveis
-
-1. **Estrutura de um código Python**
-   - `exemplos/estrutura_codigo.py`
-
-2. **Declaração e Utilização de Variáveis**
-   - `exemplos/variaveis.py`
-
-3. **Print Mensagem no Console**
-   - `exemplos/print_console.py`
-
-4. **Operadores**
-   - `exemplos/operadores.py`
-
-5. **Mais Exemplos de Operadores**
-   - `exemplos/operadores_avancados.py`
-
-6. **Desafio Percentual do Salário**
-   - `exemplos/desafio_percentual_salario.py`
-
-7. **Operadores Relacionais**
-   - `exemplos/operadores_relacionais.py`
-
-8. **Operadores de Atribuição**
-   - `exemplos/operadores_atribuicao.py`
-
-9. **Operadores Lógicos**
-   - `exemplos/operadores_logicos.py`
-
-10. **Operadores Unários**
-    - `exemplos/operadores_unarios.py`
-
-11. **Operadores Ternários**
-    - `exemplos/operadores_ternarios.py`
-
 ## Como Usar
 
 1. **Preparação do Ambiente:**
