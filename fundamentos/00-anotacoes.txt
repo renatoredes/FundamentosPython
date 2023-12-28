@@ -1,3 +1,4 @@
+No meu projeto criei uma configuração em D:
 D:\projetos-dev\python
 Anotações
 Baixar python puro site: python.org
