@@ -1,5 +1,3 @@
-Comunidade: consiguinado
-
 D:\projetos-dev\python
 Anotações
 Baixar python puro site: python.org

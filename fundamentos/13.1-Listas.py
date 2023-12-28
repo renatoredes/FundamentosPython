@@ -1,4 +1,4 @@
-# Continuando com exmplo de lista
+# Continuando com exemplo de lista
 '''
 No arquivo 13-ListasTuplas.py temos a lista: historico_transacoes
 Aqui teremos exemplos de adicionar, atualizar e remover dados 
