@@ -14,7 +14,10 @@ instalar extensões:
 
 3- Code Runner
 _______
+Observação:
 
+Em Python um bloco de código é definido pela identação.
+_______
 # Atalhos uteis
 
 CTRL + ALT + N  
