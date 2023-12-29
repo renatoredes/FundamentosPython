@@ -13,5 +13,14 @@ instalar extensões:
 2- Python Preview
 
 3- Code Runner
+_______
 
+# Atalhos uteis
 
+CTRL + ALT + N  
+Para Execultar apenas uma linha de código
+E Selecionar a linha e clicar em CTRL + ALT + N 
+O Code Runner execultará apenas a linha selecionada.
+
+CTRL + ALT + M para a execução
+ALT + SHIFT + Seta para baixo vai duplicar a linha 
