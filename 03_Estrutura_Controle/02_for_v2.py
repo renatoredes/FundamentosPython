@@ -1,3 +1,4 @@
+# Laço de Repetição utilizando for
 #Exemplo 1: Iterando sobre uma Lista
 frutas = ['maçã', 'banana', 'laranja']
 

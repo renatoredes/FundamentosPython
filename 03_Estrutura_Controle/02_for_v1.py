@@ -1,4 +1,4 @@
-# Exemplo: FOR
+# Exemplo: Laço de Repetição utilizando for
 '''
 Em Python, o laço de repetição for é utilizado para iterar sobre uma 
 sequência (como uma lista, uma tupla, uma string, etc.) 
