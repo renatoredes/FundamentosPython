@@ -13,6 +13,9 @@ instalar extensões:
 2- Python Preview
 
 3- Code Runner
+
+4- Prettier - Code formatter
+Faz Formatação automática do código com Prettier.
 _______
 Observação:
 
@@ -27,3 +30,31 @@ O Code Runner execultará apenas a linha selecionada.
 
 CTRL + ALT + M para a execução
 ALT + SHIFT + Seta para baixo vai duplicar a linha 
+
+#######
+Não estou conseguindo configurar formatação de código no visual studio code para python ao clicar em CTRL SHIFT + P mostra a mensagem:
+
+The is no formatter for 'python' files installed
+
+Ambiente virtual Python no Windows (usando venv e VS Code)
+https://www.youtube.com/watch?v=m1TYpvIYm74
+
+Criar um ambiente virtual
+
+python -m venv env
+
+ativar o ambiente
+
+escrever no terminal: .\env\Scripts\activate
+
+Em alguns casos o comando não funciona pois precisar habilitar o powersehll
+Execute como adm e digite o comando:
+
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
+confirme com S
+
+para desativar o ambiente virtual digite deactivate
+
+pip install -r requirements.txt
