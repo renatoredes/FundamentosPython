@@ -1,0 +1,8 @@
+# Para ler dados em formato de tabela com colunas separadas por tabulação
+# Instale o pandas (se ainda não tiver instalado)
+# openpyxl, é necessária para ler arquivos Excel no formato 
+.xlsx usando a biblioteca pandas.
+
+comando:
+pip install pandas
+pip install openpyxl

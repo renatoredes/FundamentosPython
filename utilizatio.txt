@@ -47,8 +47,8 @@ ativar o ambiente
 
 escrever no terminal: .\env\Scripts\activate
 
-Em alguns casos o comando não funciona pois precisar habilitar o powersehll
-Execute como adm e digite o comando:
+Em alguns casos o comando não funciona pois precisar habilitar 
+o powersehll execute como adm e digite o comando:
 
 
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
@@ -57,4 +57,6 @@ confirme com S
 
 para desativar o ambiente virtual digite deactivate
 
-pip install -r requirements.txt
+Como execultar um arquivo .py ? 
+digite no terminal python teste.py
+
