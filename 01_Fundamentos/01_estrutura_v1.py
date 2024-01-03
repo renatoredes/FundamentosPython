@@ -1,7 +1,7 @@
 # Estrutura de um programa em Python
 def main():
     # comandos
-    pass
+    pass  # define que o bloco é vazio
 
 
 # -------

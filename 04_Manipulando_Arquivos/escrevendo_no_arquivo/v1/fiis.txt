@@ -1,0 +1,9 @@
+codigo: codigo, nome: nome
+codigo: MXRF11, nome: Alianza Trust Renda Imobiliaria Fundo Investimento Imobiliario
+codigo: ALZR11, nome: BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO
+codigo: BTLG11, nome: CSHG LOGÍSTICA FDO INV IMOB - FII
+codigo: HGLG11, nome: Kinea Renda Imobiliaria FII
+codigo: KNRI11, nome: Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário
+codigo: KNCR11, nome: Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário
+codigo: XPLG11, nome: XP LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO
+codigo: XPML11, nome: XP Malls FII
