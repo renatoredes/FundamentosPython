@@ -29,9 +29,9 @@ Bem-vindo ao repositório de exemplos de Fundamentos Python! Aqui você encontra
 
 ## Como Usar 🚀
    1. Preparação do Ambiente:
-      * Acesse python.org, baixe e configure o Python em sua máquina local.
+   * Acesse python.org, baixe e configure o Python em sua máquina local.
    2. Ambiente de Desenvolvimento:
-      * Baixe e instale o Visual Studio Code.
+   * Baixe e instale o Visual Studio Code.
    3. Clone o Projeto:
    ```bash
       git clone https://github.com/seu-usuario/fundamentos-python.git
