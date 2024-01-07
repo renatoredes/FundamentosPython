@@ -33,8 +33,10 @@ Bem-vindo ao repositório de exemplos de Fundamentos Python! Aqui você encontra
    2. Ambiente de Desenvolvimento:
    * Baixe e instale o Visual Studio Code.
    3. Clone o Projeto:
-   ```bash
-      git clone https://github.com/seu-usuario/fundamentos-python.git
+```
+git clone https://github.com/seu-usuario/fundamentos-python.git
+
+```
 
 ## Configuração do Visual Studio Code:
 * Abra o Visual Studio Code.
