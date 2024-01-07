@@ -1,0 +1,69 @@
+Introdução básica aos pacotes em Python. 
+Eles são uma ferramenta poderosa para organizar código em projetos maiores 
+e modularizar funcionalidades.
+
+Em Python, um pacote é uma forma de organizar módulos em um
+diretório hierárquico. Isso ajuda a estruturar projetos Python maiores, dividindo o
+código em módulos lógicos e evitando conflitos de nome entre diferentes partes
+do código.
+
+Aqui estão alguns conceitos importantes relacionados a pacotes em Python:
+
+Estrutura de um Pacote:
+
+* Diretório do Pacote: Um pacote é um diretório que contém um arquivo especial
+chamado __init__.py. Este arquivo pode estar vazio, mas é necessário para
+que o Python reconheça o diretório como um pacote.
+
+* Submódulos: Os módulos dentro de um pacote são chamados de submódulos. 
+Por exemplo, se você tem um pacote chamado meu_pacote e dentro dele um
+módulo chamado modulo1, o caminho completo para esse módulo seria:
+meu_pacote.modulo1.
+
+Criando um Pacote:
+Para criar um pacote, você simplesmente cria um diretório e coloca nele um 
+arquivo __init__.py. Por exemplo:
+
+meu_projeto/
+|-- meu_pacote/
+|   |-- __init__.py
+|   |-- modulo1.py
+|   |-- modulo2.py
+|-- main.py
+
+Neste exemplo, meu_projeto é o diretório principal, meu_pacote é um pacote 
+contendo dois módulos (modulo1 e modulo2), e main.py é um script
+principal que pode importar funcionalidades de meu_pacote.
+
+Importando de Pacotes:
+Você pode importar módulos de um pacote da seguinte forma:
+from meu_pacote import modulo1
+
+ou importar uma função específica do módulo:
+from meu_pacote.modulo1 import minha_funcao
+
+Usando __init__.py:
+O arquivo __init__.py pode conter inicializações de pacote, importações ou 
+definições que são executadas quando o pacote é importado.
+
+Exemplo Prático:
+Imagine que temos o seguinte projeto:
+
+projeto/
+|-- calculadora/
+|   |-- __init__.py
+|   |-- operacoes.py
+|-- main.py
+
+No arquivo operacoes.py, podemos ter funções como soma e subtracao. 
+No main.py, podemos importar essas operações assim:
+
+from calculadora.operacoes import soma, subtracao
+
+print(soma(5, 3))       # Saída: 8
+print(subtracao(10, 4))  # Saída: 6
+
+
+
+
+
