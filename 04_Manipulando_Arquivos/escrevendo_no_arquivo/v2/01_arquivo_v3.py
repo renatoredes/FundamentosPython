@@ -5,11 +5,6 @@
 import csv
 
 
-import csv
-
-import csv
-
-
 def processar_arquivo_csv(entrada, saida):
     try:
         with open(entrada, mode='r', encoding='utf-8') as arquivo_csv, open(saida, mode='w', encoding='utf-8', newline='') as arquivo_saida:
@@ -37,4 +32,5 @@ def processar_arquivo_csv(entrada, saida):
 
 
 # Chama a função com os nomes dos arquivos desejados
-processar_arquivo_csv('fundos_imobiliarios_v1.csv', 'fiis.txt')
+processar_arquivo_csv('fundos_imobiliarios_v1.csv',
+                      'fundos_imobiliarios_2023.txt')
