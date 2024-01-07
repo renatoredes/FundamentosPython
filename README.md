@@ -37,18 +37,18 @@ Bem-vindo ao repositório de exemplos de Fundamentos Python! Aqui você encontra
       git clone https://github.com/seu-usuario/fundamentos-python.git
 
 ## Configuração do Visual Studio Code:
-   * Abra o Visual Studio Code.
-   * Instale as extensões: <br />
+* Abra o Visual Studio Code.
+* Instale as extensões: <br />
 
    1.1 Python Microsoft: Python Extension. 🐍<br />
    2.2 Code Runner: Code Runner Extension. 🏃‍♂️
 
 ## Execução dos Exemplos:
-   * Navegue até a pasta Fundamentos
-   * No Visual Studio Code.
-   * Abra o arquivo Python que deseja executar.
-   * Utilize o Code Runner para executar o código.
-   * Observe os resultados no console do Visual Studio Code.
+* Navegue até a pasta Fundamentos
+* No Visual Studio Code.
+* Abra o arquivo Python que deseja executar.
+* Utilize o Code Runner para executar o código.
+* Observe os resultados no console do Visual Studio Code.
 
 ## Contribuição:
    * Sinta-se à vontade para contribuir com seus próprios exemplos ou melhorias. <br />
