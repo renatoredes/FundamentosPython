@@ -1,10 +1,13 @@
-codigo,nome
-codigo,nome
-MXRF11,Alianza Trust Renda Imobiliaria Fundo Investimento Imobiliario
-ALZR11,BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO
-BTLG11,CSHG LOGÍSTICA FDO INV IMOB - FII
-HGLG11,Kinea Renda Imobiliaria FII
-KNRI11,Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário
-KNCR11,Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário
-XPLG11,XP LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO
-XPML11,XP Malls FII
+1. Baixar o python
+https://www.python.org/
+
+Extensões: 
+1 - Python Microsoft microsoft.com
+2 - Code Runner
+3 - autopep8
+
+2° Baixar o VSCode
+https://code.visualstudio.com/
+
+3° Documentação Python
+https://docs.python.org/pt-br
